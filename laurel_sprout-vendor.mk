@@ -3512,7 +3512,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     DeviceInfo \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     imssettings \
     WfdService \
